@@ -4,7 +4,7 @@ Ekstensi Browser untuk menghasilkan kode OTP secara langsung
 
 ## Pengguna khusus
 
-Ekstensi ini bisa dipakai untuk menghasilkan berbagai kode OTP, namun ada fitur khusus yakni kode OTP akan otomatis terisi ke form input diantaranya issuer Dapodik, SDM, dll.
+Ekstensi ini bisa dipakai untuk menghasilkan berbagai kode OTP, namun ada fitur khusus yakni kode OTP akan otomatis terisi ke form input diantaranya issuer Dapodik, SDM, SIASN, dan InfoGTK.
 
 Jika akan menggunakan fitur pengguna khusus tersebut, kita harus setting issuer terlebih dahulu. Jika bukan default, Gunakan tombol edit untuk mengubahnya.
 
